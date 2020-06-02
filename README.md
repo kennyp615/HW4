@@ -38,7 +38,7 @@ You will be employer-competitive if you are able to:
 
 ## Algorithms
 
-* 01-log-even-nums - Create a function that prints even numbers from 0 to a given number.
+* 01-log-even-numbers - Create a function that prints even numbers from 0 to a given number.
 
 * 02-countdown - Create a function that prints all whole numbers from a given positive number to 1.
 
