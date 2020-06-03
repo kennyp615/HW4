@@ -4,7 +4,7 @@
 }
 
 :root {
-    --hue-neutral: 200;
+    --hue-neutral: 275;
     --hue-wrong: 0;
     --hue-correct: 145;
 }
@@ -85,4 +85,7 @@ body.wrong {
 }
 #h4 {
     text-align: center;
+}
+.see-results-btn {
+    display: none;
 }
